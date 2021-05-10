@@ -94,7 +94,7 @@ Jedną z metod otworzenia pliku settings.json w swoim edytorze jest uruchomienie
 
 ### 2.1 polacode-2020
 
-Wtyczka pozwala na robienie screena kodu zawierającego setki linii kodu albo tylko część w zależności od tego jaki fragment się zaznaczy.
+Wtyczka pozwala na robienie screena kodu zawierającego setki linii kodu albo tylko części w zależności od tego jaki fragment się zaznaczy.
 
 ![polacode.gif](gh/polacode.gif)
 
@@ -102,7 +102,7 @@ Wtyczka pozwala na robienie screena kodu zawierającego setki linii kodu albo ty
 
 Prosta wtyczka zwiększająca czytelność wcięć.
 
-To rozszerzenie koloruje wcięcie przed tekstem naprzemiennie czterema różnymi kolorami.
+To rozszerzenie koloruje wcięcia przed tekstem naprzemiennie czterema różnymi kolorami.
 
 ![indentrainbow.png](gh/indentrainbow.png)
 
@@ -113,7 +113,7 @@ To rozszerzenie koloruje wcięcie przed tekstem naprzemiennie czterema różnymi
 ![synthwave.png](gh/synthwave.png)
 
 Theme występuje w dwóch wersjach.
-W celu wyłączenia Neon Dreams należy uruchomienić Command Pallete i wpisać komendę: `Synthwave '84: Disable Neon Dreams` a następnie zrestartować edytor.
+W celu wyłączenia Neon Dreams należy uruchomić Command Pallete i wpisać komendę: `Synthwave '84: Disable Neon Dreams` a następnie zrestartować edytor.
 
 ![synthwave.gif](gh/synthwave.gif)
 
@@ -123,7 +123,7 @@ Automatyczne formatowanie kodu.
 
 ![save.gif](gh/save.gif)
 
-Warto podpiąć automatyczne formatowaie przy każdym zapisie pliku poprzez dodanie poniższego wpisu do settigns.json.
+Warto podpiąć automatyczne formatowanie przy każdym zapisie pliku poprzez dodanie poniższego wpisu do settigns.json.
 
 ```json
 "editor.formatOnSave": true,
@@ -243,7 +243,7 @@ Kolor kursora jest brany z aktualnego Themu. Za efekt mrugającego kursora odpow
 
 #### 3.2 Auto zapis pliku
 
-Plik jest zapisywany automatycznie, gdy zmieniamy focus na inny plik. Przydaje się bo nie trzeba pamiętać o zapisie.
+Plik jest zapisywany automatycznie, gdy zmieniamy focus na inny plik. Przydaje się ponieważ nie trzeba pamiętać o zapisie.
 
 ![autosave.gif](gh/autosave.gif)
 
