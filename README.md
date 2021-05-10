@@ -175,7 +175,7 @@ Wtyczka pokazuje niepotrzebne spacje w dokumencie.
 
 ![spaces.gif](gh/spaces.gif)
 
-Dzięki dodaniu poniższego wpisy do pliku settings.json zbędne spacje będą automatycznie usuwane przy zapisie pliku.
+Dzięki dodaniu poniższego wpisu do pliku settings.json zbędne spacje będą automatycznie usuwane przy zapisie pliku.
 
 ```json
 "trailing-spaces.trimOnSave": true,
@@ -183,7 +183,7 @@ Dzięki dodaniu poniższego wpisy do pliku settings.json zbędne spacje będą a
 
 ### 2.12 Highling Matching Tag
 
-Dodaje podświetlenie do tagu otwierającego i zamykającego, dzięki czemu łatwiej można się odnależć w kodzie HTML.
+Dodaje podświetlenie do tagu otwierającego i zamykającego, dzięki czemu łatwiej można się odnaleźć w kodzie HTML.
 
 ![highlight.gif](gh/highlight.gif)
 
